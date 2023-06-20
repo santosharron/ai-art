@@ -1,7 +1,7 @@
 # AI Art
 AI app created by flutter framework and it is a new AI art generation tool that can create amazing images from just text prompt. TexFusion AI can also make variations of your existing image. It uses brain fusion api to get 3d render images.
 
-![Preview](https://i.imgur.com/OMnEkWn.png)
+![Preview](https://digitalpress.fra1.cdn.digitaloceanspaces.com/k1x3m8x/2023/06/Frame-273.png)
 
 
 ## Stable Version
@@ -37,6 +37,3 @@ You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.o
 
 ## Contributing
 Whether you have ideas, design changes, code cleaning, or really heavy code changes, help is always welcome. The more it is done, the better it gets! So feel free to create an issue and make a pull request.
-
-## Contributors ✨
-[![](https://opencollective.com/text_to_image_gen/contributors.svg?width=890&button=false)](https://github.com/santosharron/ai-art/graphs/contributors)
