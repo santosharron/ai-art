@@ -15,11 +15,6 @@ AI app created by flutter framework and it is a new AI art generation tool that 
 
 You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.org). Thanks in Advance
 
-
-<Br>
-<p align="left">
-<a href="https://github.com/santosharron/ai-art/releases/download/v1.0.5/app-release.apk"><img src="https://img.shields.io/github/downloads/santosharron/ai-art/total?color=g&label=Downloads&logo=android&logoColor=white&style=for-the-badge"></a>
-
 ## Features
 - Generate Images from Text
 - High Quality images
