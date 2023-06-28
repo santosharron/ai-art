@@ -32,3 +32,6 @@ You Can Also support me by [Subscribing to My Blog](https://www.epicprogrammer.o
 
 ## Contributing
 Whether you have ideas, design changes, code cleaning, or really heavy code changes, help is always welcome. The more it is done, the better it gets! So feel free to create an issue and make a pull request.
+
+## Credits
+I drew inspiration for this idea from VikramadityaDev's app structure. Although I used the same basic framework, I customized the internal modules using BrainFuison to achieve the exact results I was aiming for. I'm not great at design myself, so I want to give all the credit to VikramadityaDev for their amazing design skills.
